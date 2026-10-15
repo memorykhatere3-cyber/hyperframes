@@ -1,0 +1,9 @@
+﻿# Common ignores
+.env
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+bin/
+obj/
